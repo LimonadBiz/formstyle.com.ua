@@ -1,0 +1,11 @@
+url: http://formstyle.com.ua
+baseURL: http://formstyle.com.ua
+name: FormStyle
+description: >
+  Секреты стилизации
+  веб-форм с помощью CSS и
+  JavaScript
+
+canonifyURLs: true
+theme: "hugo-bootstrap-premium"
+publishDir: "public"
